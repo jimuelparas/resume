@@ -14,7 +14,8 @@
 <h3> About Me </h3>
 <p>  
     Hello my name is Jimuel Salgado Paras i am 20 years old my birthday november 5 2004 and my interest my life is to succes to my goal to graduate became a IT Profesional   and to get a job and have a have family and grow old
-
 </p>
+
+<h3> Education </h3>
 </body>
 </html>
